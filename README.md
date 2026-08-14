@@ -9,7 +9,7 @@
 <p>
   <a href="https://github.com/cporter202/awesome-ai-tools/stargazers"><img src="https://img.shields.io/github/stars/cporter202/awesome-ai-tools?style=for-the-badge&color=7c3aed" alt="GitHub stars"></a>
   <a href="https://github.com/cporter202/awesome-ai-tools/network/members"><img src="https://img.shields.io/github/forks/cporter202/awesome-ai-tools?style=for-the-badge&color=2563eb" alt="GitHub forks"></a>
-  <img src="https://img.shields.io/badge/hand--picked_tools-13-0f766e?style=for-the-badge" alt="13 hand-picked tools">
+  <img src="https://img.shields.io/badge/hand--picked_tools-15-0f766e?style=for-the-badge" alt="15 hand-picked tools">
   <a href="https://github.com/cporter202/awesome-ai-tools/commits/main"><img src="https://img.shields.io/github/last-commit/cporter202/awesome-ai-tools?style=for-the-badge&color=ea580c" alt="Last commit"></a>
 </p>
 
@@ -18,6 +18,7 @@
   <a href="#-monetization--e-commerce">Monetization</a> •
   <a href="#-development--websites">Development</a> •
   <a href="#-automation--data">Automation</a> •
+  <a href="#-trading--market-intelligence">Markets</a> •
   <a href="#-voice--communication">Voice</a>
 </p>
 
@@ -40,7 +41,9 @@
 | Build an app or website with AI | [Lovable](https://lovablelabs.pxf.io/3kzOJd) or [10Web](https://10web.io/?_from=chris35) |
 | Automate a workflow | [Make.com](https://www.make.com/en/register?pc=viralwave) |
 | Extract or monitor web content | [Apify](https://www.apify.com?fpr=p2hrc6) or [RSS.app](https://rss.app?fpr=chris90) |
+| Follow a structured morning market workflow | [KamdenAI](https://kamdenai.com/) |
 | Generate realistic AI voice | [ElevenLabs](https://try.elevenlabs.io/n64zmcqt1hc7) |
+| Deploy an AI customer-support agent | [Chatbase](https://link.chatbase.co/chris-porter) |
 | Automate business communication | [CallHippo](https://callhippo.com?fp_ref=christopher56) |
 
 ## 📱 Content & Video
@@ -49,6 +52,7 @@
 <tr>
 <td width="50%" valign="top">
   <h3 align="center"><a href="https://viralwavestudio.com">ViralWave Studio</a></h3>
+  <p align="center"><a href="https://viralwavestudio.com"><img src="https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765904933502-Screenshot%202025-12-16%20120825.png?alt=media&amp;token=6986431e-4bb0-48ba-802d-e282f1896cb2" alt="ViralWave Studio interface" width="100%"></a></p>
   <p align="center"><strong>AI reels · Scheduling · Social publishing</strong></p>
   <p>Transforms prompts into social videos and schedules them across your accounts, taking a workflow from idea to publication in one place.</p>
   <p><strong>Why it stands out:</strong> It removes the repetitive work behind maintaining a consistent social presence.</p>
@@ -56,6 +60,7 @@
 </td>
 <td width="50%" valign="top">
   <h3 align="center"><a href="https://postiz.com/?ref=chris34">Postiz</a></h3>
+  <p align="center"><a href="https://postiz.com/?ref=chris34"><img src="https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765904952187-Screenshot%202025-12-16%20120904.png?alt=media&amp;token=3ea09316-1202-408a-ba3f-ac39dcba5d28" alt="Postiz interface" width="100%"></a></p>
   <p align="center"><strong>Social management · Design · Cross-posting</strong></p>
   <p>An open-source social media suite with an AI content assistant, built-in design tools, analytics, team features, and broad platform support.</p>
   <p><strong>Why it stands out:</strong> It combines creation, publishing, automation, and analytics—and can be self-hosted.</p>
@@ -65,6 +70,7 @@
 <tr>
 <td width="50%" valign="top">
   <h3 align="center"><a href="https://heygen.com/?sid=rewardful&amp;via=chris-porter">HeyGen</a></h3>
+  <p align="center"><a href="https://heygen.com/?sid=rewardful&amp;via=chris-porter"><img src="https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765904559489-Screenshot%202025-12-16%20104259.png?alt=media&amp;token=ce6983e0-c99e-4d4d-b21f-6bae4023dc09" alt="HeyGen interface" width="100%"></a></p>
   <p align="center"><strong>AI video · Avatars · Translation</strong></p>
   <p>Creates complete videos from text, images, or audio, with voiceovers, multilingual translation, avatars, and brand-aware styles.</p>
   <p><strong>Why it stands out:</strong> It makes polished, multilingual video production fast and approachable.</p>
@@ -88,6 +94,7 @@
 <tr>
 <td width="50%" valign="top">
   <h3 align="center"><a href="https://authflow.ai">Authflow</a></h3>
+  <p align="center"><a href="https://authflow.ai"><img src="https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765904558981-Screenshot%202025-12-16%20104315.png?alt=media&amp;token=9d37f2f2-33b3-48f6-ade7-85806df610cb" alt="Authflow interface" width="100%"></a></p>
   <p align="center"><strong>GPT paywalls · Access control · Subscriptions</strong></p>
   <p>Adds secure paywalls to custom GPTs so creators can package premium AI experiences for paying users.</p>
   <p><strong>Why it stands out:</strong> It provides a direct path from useful GPT to paid product.</p>
@@ -95,6 +102,7 @@
 </td>
 <td width="50%" valign="top">
   <h3 align="center"><a href="https://try.printify.com/mhf23rn5orq2">Printify</a></h3>
+  <p align="center"><a href="https://try.printify.com/mhf23rn5orq2"><img src="https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765904558323-Screenshot%202025-12-16%20104331.png?alt=media&amp;token=0f61ba05-79e6-478a-8bc1-048b3f7eb7eb" alt="Printify interface" width="100%"></a></p>
   <p align="center"><strong>Print on demand · Fulfillment · Global delivery</strong></p>
   <p>Lets creators sell custom products without holding inventory while the platform handles production, fulfillment, and shipping.</p>
   <p><strong>Why it stands out:</strong> It turns designs into a scalable product business with minimal operational overhead.</p>
@@ -104,6 +112,7 @@
 <tr>
 <td width="50%" valign="top">
   <h3 align="center"><a href="https://www.everbee.io/?via=christopher-porter">EverBee</a></h3>
+  <p align="center"><a href="https://www.everbee.io/?via=christopher-porter"><img src="https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765904557411-Screenshot%202025-12-16%20104348.png?alt=media&amp;token=e9978398-618f-442e-a8e9-2ea3844f43a1" alt="EverBee interface" width="100%"></a></p>
   <p align="center"><strong>Product research · Etsy SEO · Market validation</strong></p>
   <p>Surfaces product, keyword, and marketplace data to help creators validate ideas, spot demand, and improve listings.</p>
   <p><strong>Why it stands out:</strong> It replaces guesswork with useful signals before you invest in a product.</p>
@@ -125,6 +134,7 @@
 <tr>
 <td width="50%" valign="top">
   <h3 align="center"><a href="https://lovablelabs.pxf.io/3kzOJd">Lovable</a></h3>
+  <p align="center"><a href="https://lovablelabs.pxf.io/3kzOJd"><img src="https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765904556570-Screenshot%202025-12-16%20104406.png?alt=media&amp;token=615f8140-6c82-4649-abff-664a51151e23" alt="Lovable interface" width="100%"></a></p>
   <p align="center"><strong>AI app builder · Prototyping · Conversational development</strong></p>
   <p>Turns plain-language product ideas into working apps and websites through a chat-based building experience.</p>
   <p><strong>Why it stands out:</strong> It dramatically shortens the distance between an idea and a usable prototype.</p>
@@ -132,6 +142,7 @@
 </td>
 <td width="50%" valign="top">
   <h3 align="center"><a href="https://10web.io/?_from=chris35">10Web</a></h3>
+  <p align="center"><a href="https://10web.io/?_from=chris35"><img src="https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765904556099-Screenshot%202025-12-16%20104424.png?alt=media&amp;token=0fa1e136-f7e9-476a-8cc6-d2bce30850dd" alt="10Web interface" width="100%"></a></p>
   <p align="center"><strong>AI websites · Hosting · Optimization</strong></p>
   <p>Combines AI-assisted website creation with managed hosting and performance tooling for a streamlined web workflow.</p>
   <p><strong>Why it stands out:</strong> It bundles building, hosting, and optimization into one approachable platform.</p>
@@ -148,6 +159,7 @@
 <tr>
 <td width="50%" valign="top">
   <h3 align="center"><a href="https://www.make.com/en/register?pc=viralwave">Make.com</a></h3>
+  <p align="center"><a href="https://www.make.com/en/register?pc=viralwave"><img src="https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765904555546-Screenshot%202025-12-16%20104438.png?alt=media&amp;token=956d8389-c821-4933-bce0-5a317b898f88" alt="Make.com interface" width="100%"></a></p>
   <p align="center"><strong>Visual automation · App integrations · Workflows</strong></p>
   <p>Connects apps and services in a visual workflow builder so repetitive business processes can run automatically.</p>
   <p><strong>Why it stands out:</strong> It makes sophisticated multi-step automation accessible without traditional coding.</p>
@@ -155,6 +167,7 @@
 </td>
 <td width="50%" valign="top">
   <h3 align="center"><a href="https://www.apify.com?fpr=p2hrc6">Apify</a></h3>
+  <p align="center"><a href="https://www.apify.com?fpr=p2hrc6"><img src="https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765904554941-Screenshot%202025-12-16%20104452.png?alt=media&amp;token=47198ab6-2575-428a-bcf5-59e1dd558987" alt="Apify interface" width="100%"></a></p>
   <p align="center"><strong>Web scraping · Data extraction · APIs</strong></p>
   <p>Provides ready-made scrapers and serverless Actors for collecting structured, real-time data from the web.</p>
   <p><strong>Why it stands out:</strong> Its marketplace of existing scrapers can save substantial development time.</p>
@@ -164,6 +177,7 @@
 <tr>
 <td width="50%" valign="top">
   <h3 align="center"><a href="https://rss.app?fpr=chris90">RSS.app</a></h3>
+  <p align="center"><a href="https://rss.app?fpr=chris90"><img src="https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765904554282-Screenshot%202025-12-16%20104503.png?alt=media&amp;token=86138784-e1f1-43b9-aff3-858cfbade9ff" alt="RSS.app interface" width="100%"></a></p>
   <p align="center"><strong>RSS generation · Monitoring · Content aggregation</strong></p>
   <p>Creates feeds from websites and social sources for streamlined monitoring, curation, and distribution.</p>
   <p><strong>Why it stands out:</strong> It turns scattered content sources into automation-friendly feeds.</p>
@@ -179,12 +193,36 @@
 
 <p align="right"><a href="#awesome-ai-tools">Back to top ↑</a></p>
 
+## 📈 Trading & Market Intelligence
+
+<table>
+<tr>
+<td width="50%" valign="top">
+  <h3 align="center"><a href="https://kamdenai.com/">KamdenAI</a></h3>
+  <p align="center"><a href="https://kamdenai.com/"><img src="assets/kamdenai.png" alt="KamdenAI morning execution signal system" width="100%"></a></p>
+  <p align="center"><strong>Stock signals · Risk sizing · Results tracking</strong></p>
+  <p>Organizes market-day research into a focused morning sequence: a 9:15 watchlist, 9:28 locked field, 9:30 confirmed signals, and official 10:05 results.</p>
+  <p><strong>Why it stands out:</strong> It combines entry, stop, target, risk, reward, and position-sizing examples with a results ledger, journal, community, and developer webhooks.</p>
+  <p align="center"><a href="https://kamdenai.com/"><strong>Explore KamdenAI →</strong></a></p>
+</td>
+<td width="50%" valign="top">
+  <h3 align="center">Know the scope</h3>
+  <p align="center"><strong>Research · Signals · User-controlled execution</strong></p>
+  <p>KamdenAI is a stock signal and educational-analysis platform, not a broker or auto-trading service. Members remain responsible for deciding whether and how to act on any signal.</p>
+  <p><strong>Risk note:</strong> Market signals and sizing examples are not financial advice, and trading can result in losses.</p>
+</td>
+</tr>
+</table>
+
+<p align="right"><a href="#awesome-ai-tools">Back to top ↑</a></p>
+
 ## 🎤 Voice & Communication
 
 <table>
 <tr>
 <td width="50%" valign="top">
   <h3 align="center"><a href="https://try.elevenlabs.io/n64zmcqt1hc7">ElevenLabs</a></h3>
+  <p align="center"><a href="https://try.elevenlabs.io/n64zmcqt1hc7"><img src="https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765904552536-Screenshot%202025-12-16%20104529.png?alt=media&amp;token=87250e70-604a-4bd1-a183-c14d86b737f2" alt="ElevenLabs interface" width="100%"></a></p>
   <p align="center"><strong>Text to speech · Voice generation · Multilingual audio</strong></p>
   <p>Generates natural-sounding speech for videos, podcasts, presentations, and AI experiences across multiple languages.</p>
   <p><strong>Why it stands out:</strong> It delivers production-quality voiceovers without a traditional recording workflow.</p>
@@ -192,10 +230,28 @@
 </td>
 <td width="50%" valign="top">
   <h3 align="center"><a href="https://callhippo.com?fp_ref=christopher56">CallHippo</a></h3>
+  <p align="center"><a href="https://callhippo.com?fp_ref=christopher56"><img src="https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765904552027-Screenshot%202025-12-16%20104542.png?alt=media&amp;token=d7f84ef2-2ff9-450a-bff4-297539c5a768" alt="CallHippo interface" width="100%"></a></p>
   <p align="center"><strong>Cloud phone · Omnichannel inbox · AI agents</strong></p>
   <p>Brings calls, messages, WhatsApp, analytics, and AI-powered agents into one business communication platform.</p>
   <p><strong>Why it stands out:</strong> It automates routine communication while keeping customer interactions organized.</p>
   <p align="center"><a href="https://callhippo.com?fp_ref=christopher56"><strong>Explore CallHippo →</strong></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <h3 align="center"><a href="https://link.chatbase.co/chris-porter">Chatbase</a></h3>
+  <p align="center"><a href="https://link.chatbase.co/chris-porter"><img src="assets/chatbase.png" alt="Chatbase conversational AI agents for customer experience" width="100%"></a></p>
+  <p align="center"><strong>Customer support · AI agents · Omnichannel CX</strong></p>
+  <p>Builds AI customer-support agents trained on your documents, websites, or databases, then deploys them across web chat, email, messaging, and voice.</p>
+  <p><strong>Why it stands out:</strong> Its actions, integrations, analytics, lead capture, and human escalation help agents resolve requests instead of only answering questions.</p>
+  <p align="center"><a href="https://link.chatbase.co/chris-porter"><strong>Explore Chatbase →</strong></a></p>
+</td>
+<td width="50%" valign="top">
+  <h3 align="center">Choose by workflow</h3>
+  <p align="center"><strong>Create · Support · Communicate</strong></p>
+  <p><strong>ElevenLabs</strong> for generated voice and audio.</p>
+  <p><strong>Chatbase</strong> for trainable, omnichannel customer-support agents.</p>
+  <p><strong>CallHippo</strong> for cloud calling and business communication operations.</p>
 </td>
 </tr>
 </table>
