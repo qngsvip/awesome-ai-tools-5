@@ -9,7 +9,7 @@
 <p>
   <a href="https://github.com/cporter202/awesome-ai-tools/stargazers"><img src="https://img.shields.io/github/stars/cporter202/awesome-ai-tools?style=for-the-badge&color=7c3aed" alt="GitHub stars"></a>
   <a href="https://github.com/cporter202/awesome-ai-tools/network/members"><img src="https://img.shields.io/github/forks/cporter202/awesome-ai-tools?style=for-the-badge&color=2563eb" alt="GitHub forks"></a>
-  <img src="https://img.shields.io/badge/hand--picked_tools-15-0f766e?style=for-the-badge" alt="15 hand-picked tools">
+  <img src="https://img.shields.io/badge/hand--picked_tools-16-0f766e?style=for-the-badge" alt="16 hand-picked tools">
   <a href="https://github.com/cporter202/awesome-ai-tools/commits/main"><img src="https://img.shields.io/github/last-commit/cporter202/awesome-ai-tools?style=for-the-badge&color=ea580c" alt="Last commit"></a>
 </p>
 
@@ -40,7 +40,8 @@
 | Research and sell products online | [EverBee](https://www.everbee.io/?via=christopher-porter) or [Printify](https://try.printify.com/mhf23rn5orq2) |
 | Build an app or website with AI | [Lovable](https://lovablelabs.pxf.io/3kzOJd) or [10Web](https://10web.io/?_from=chris35) |
 | Automate a workflow | [Make.com](https://www.make.com/en/register?pc=viralwave) |
-| Extract or monitor web content | [Apify](https://www.apify.com?fpr=p2hrc6) or [RSS.app](https://rss.app?fpr=chris90) |
+| Extract structured public web data | [CoreClaw](https://coreclaw.com?fpr=chris69&fp_sid=aitools) or [Apify](https://www.apify.com?fpr=p2hrc6) |
+| Monitor websites and feeds | [RSS.app](https://rss.app?fpr=chris90) |
 | Follow a structured morning market workflow | [KamdenAI](https://kamdenai.com/) |
 | Generate realistic AI voice | [ElevenLabs](https://try.elevenlabs.io/n64zmcqt1hc7) |
 | Deploy an AI customer-support agent | [Chatbase](https://link.chatbase.co/chris-porter) |
@@ -184,9 +185,12 @@
   <p align="center"><a href="https://rss.app?fpr=chris90"><strong>Explore RSS.app →</strong></a></p>
 </td>
 <td width="50%" valign="top">
-  <h3 align="center">Build the pipeline</h3>
-  <p align="center"><strong>Collect → Connect → Automate</strong></p>
-  <p>Use <strong>Apify</strong> for structured web data, <strong>RSS.app</strong> for ongoing content monitoring, and <strong>Make.com</strong> to move that data through your workflow.</p>
+  <h3 align="center"><a href="https://coreclaw.com?fpr=chris69&amp;fp_sid=aitools">CoreClaw</a></h3>
+  <p align="center"><a href="https://coreclaw.com?fpr=chris69&amp;fp_sid=aitools"><img src="assets/coreclaw.png" alt="CoreClaw ready-made public data workers" width="100%"></a></p>
+  <p align="center"><strong>Data Workers · Web extraction · Structured exports</strong></p>
+  <p>Offers ready-to-run Workers for extracting public website data, scheduling collection jobs, monitoring sources, and exporting structured results.</p>
+  <p><strong>Why it stands out:</strong> Its Worker marketplace supports no-code runs, while its API, callbacks, and custom Worker tooling give developers room to build deeper automations.</p>
+  <p align="center"><a href="https://coreclaw.com?fpr=chris69&amp;fp_sid=aitools"><strong>Explore CoreClaw →</strong></a></p>
 </td>
 </tr>
 </table>
